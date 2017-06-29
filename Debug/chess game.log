@@ -1,0 +1,40 @@
+﻿  Tour.cpp
+  Source.cpp
+  Roi.cpp
+  Pion.cpp
+  Piece.cpp
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\piece.cpp(187): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\piece.cpp(188): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  Joueur.cpp
+  Jeu.cpp
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\jeu.cpp(64): warning C4244: 'argument' : conversion de 'double' en 'const int', perte possible de données
+  Interface.cpp
+  Interaction.cpp
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\interaction.cpp(17): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\interaction.cpp(18): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\interaction.cpp(19): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  IA.cpp
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\ia.cpp(81): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\ia.cpp(114): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\ia.cpp(115): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\ia.cpp(136): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\ia.cpp(138): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\ia.cpp(145): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\ia.cpp(146): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\ia.cpp(164): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\ia.cpp(167): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\ia.cpp(171): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\ia.cpp(173): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\ia.cpp(195): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\ia.cpp(210): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\ia.cpp(212): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  Humain.cpp
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\humain.cpp(22): warning C4244: 'argument' : conversion de 'double' en 'const int', perte possible de données
+c:\users\eric\desktop\ensae\3a\projet informatique\chess game\chess game sauvegarde 3\humain.cpp(17): warning C4101: 'result' : variable locale non référencée
+  Fou.cpp
+  Echiquier.cpp
+  Dame.cpp
+  Cavalier.cpp
+  Action.cpp
+  Génération de code en cours...
+  chess game sauvegarde 3.vcxproj -> C:\Users\Eric\Desktop\ENSAE\3A\Projet Informatique\chess game\Debug\chess game sauvegarde 3.exe
